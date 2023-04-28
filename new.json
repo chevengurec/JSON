@@ -1,5 +1,11 @@
-ФИО - Перевалов Евгений Сергеевич
-Возраст - 34
-Количество домашних животных - 0
-Желаемая зп - 200000
+{
+   "person":{
+   	"first_name":"Evgeniy",
+   	"middle_name":"Sergeevich",
+   	"last_name":"Perevalov",
+   	"age":34,
+   	"pets":0
+   	"salary":"2000$"
+   }
+}
 
